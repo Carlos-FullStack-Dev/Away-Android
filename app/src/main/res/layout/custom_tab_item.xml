@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Tab title -->
+    <com.plum.networkk.awmapplication.utils.MyTextViewCustomGeneric
+        android:id="@+id/tab_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/_12sdp"
+        app:fontType="semi_bold"
+        android:background="@drawable/tab_background"
+        android:textColor="@drawable/selector_tab_text_color"/>
+
+
+    <!-- Tab divider -->
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:visibility="visible"
+        android:background="@android:color/white" />
+
+<!--    <View-->
+<!--        android:layout_width="1dp"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:visibility="visible"-->
+<!--        android:background="@android:color/white" />-->
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.TourActivity"
+    android:background="@color/white">
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/tvGetStartedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.tbuonomo.viewpagerdotsindicator.WormDotsIndicator
+        android:id="@+id/dots_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_marginBottom="32dp"
+        app:dotsColor="@color/app_green_color"
+        app:dotsCornerRadius="8dp"
+        app:dotsSize="16dp"
+
+        app:dotsSpacing="4dp"
+        app:dotsStrokeColor="@color/app_green_color"
+        app:dotsStrokeWidth="2dp"
+
+        app:layout_constraintBottom_toTopOf="@+id/tvGetStartedBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:selectedDotColor="@color/app_gray_color" />
+
+    <TextView
+        android:id="@+id/tvGetStartedBtn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:text="@string/txt_get_started"
+        android:background="@color/app_green_color"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_15sdp"
+        android:textAllCaps="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+
+    <!--    <com.tbuonomo.viewpagerdotsindicator.DotsIndicator-->
+<!--        android:id="@+id/dots_indicator"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="24dp"-->
+<!--        app:dotsColor="@color/app_gray_color"-->
+<!--        app:dotsCornerRadius="8dp"-->
+<!--        app:dotsSize="16dp"-->
+<!--        app:dotsSpacing="4dp"-->
+<!--        app:dotsWidthFactor="2.5"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:progressMode="false"-->
+<!--        app:selectedDotColor="@color/app_green_color" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

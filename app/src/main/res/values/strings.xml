@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">AWMApplication</string>
+    <string name="txt_create_account">Create Account</string>
+    <string name="txt_take_tour">Take the Tour</string>
+    <string name="txt_sing_in">Sign in</string>
+    <string name="txt_email">EMAIL</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_forgot_password2">Forgot Password</string>
+    <string name="txt_password">PASSWORD</string>
+    <string name="txt_get_started">Get Started</string>
+    <string name="txt_choose_account_type">Choose Account Type</string>
+    <string name="txt_employees">Employee</string>
+    <string name="txt_businesss">Business</string>
+    <string name="txt_title_employee_create_account">Has your employer asked you to sign up for the Away App?</string>
+    <string name="txt_description_employee_create_account">You should have received an invite code via text message. You need this code to sign up. If you have not received an invite code , please ask your employer to resend.</string>
+
+    <string name="txt_title_business_create_account">Are your employees spending too much time on their phones?</string>
+    <string name="txt_description_business_create_account">Sign up free today and you can begin tracking their usage while they are at work. Need more control? Upgrade to lock down certain features and apps remotely.</string>
+    <string name="txt_companyName">COMPANY NAME</string>
+    <string name="txt_fname">FIRST NAME</string>
+    <string name="txt_lname">LAST NAME</string>
+    <string name="txt_bussiness_account">BUSINESS ACCOUNT</string>
+    <string name="txt_employee_account">EMPLOYEE ACCOUNT</string>
+
+
+    <string name="title_activity_menu_employee">MenuActivityEmployee</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_dashboard">DASHBOARD</string>
+    <string name="menu_employees">EMPLOYEES</string>
+    <string name="menu_statistics">STATISTICS</string>
+    <string name="menu_companies">COMPANIES</string>
+    <string name="menu_profile">PROFILE</string>
+    <string name="menu_help">HELP</string>
+    <string name="txt_away_mode_turned_off">Away mode\nturned off</string>
+    <string name="txt_away_mode_turned_on">Away mode\nturned On</string>
+    <string name="txt_take_a_break">Take a break</string>
+    <string name="txt_quick_stats">Quick Stats</string>
+    <string name="txt_daily_average">Daily Average</string>
+    <string name="txt_view_more">View More</string>
+    <string name="txt_unlock_today">Unlocks\nToday</string>
+    <string name="txt_unlock_today_single_line">Unlocks Today</string>
+    <string name="txt_minutes_used_today">Minutes\n today</string>
+    <string name="txt_overages_this_month">OverAges\nthis month</string>
+    <string name="txt_minutes_this_week">Minutes\n this week</string>
+    <string name="txt_select_break">Select break</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_go_on_break">Go on break</string>
+    <string name="txt_go_back">Go back</string>
+    <string name="txt_advertisement_text_title">Thanks for Using\nAway Mode!</string>
+    <string name="txt_stay_connected_and_focused">Stay connected, Remain Focused.</string>
+    <string name="txt_quotation">"The first requisite for success is the ability to focus"</string>
+    <string name="txt_quotation_auther">-Thomas Edison</string>
+    <string name="txt_overages">OverAges</string>
+    <string name="txt_app_usage">App Usage</string>
+    <string name="txt_internet_usage">Internet Usage</string>
+    <string name="txt_hours_away">Hours Away</string>
+    <string name="txt_non_excused">Non Excused</string>
+    <string name="txt_excused">Excused</string>
+    <string name="txt_phone_unlocks">Phone unlocks</string>
+    <string name="txt_today">TODAY</string>
+    <string name="txt_week">WEEK</string>
+    <string name="txt_month">MONTH</string>
+    <string name="txt_active_employees">Active\nEmployees</string>
+    <string name="txt_overages_today">Overages\nToday</string>
+    <string name="txt_active_employees_horizontal">Active Employees</string>
+    <string name="txt_inactive_employees_horizontal">INActive Employees</string>
+    <string name="txt_view_all">View All</string>
+    <string name="txt_employees_info">Employee Info</string>
+    <string name="txt_save_changes">Save Changes</string>
+    <string name="txt_add_new">Add New</string>
+    <string name="txt_required_apps">Required Apps</string>
+    <string name="txt_emergency_calls">Emergency calls</string>
+    <string name="txt_allowed_apps">Allowed apps</string>
+    <string name="txt_work_chat">Work Chat</string>
+    <string name="txt_timeclock_app">TimeClock App</string>
+    <string name="txt_project_management_app">Project Management App</string>
+    <string name="txt_blocked_apps">Blocked Apps</string>
+    <string name="txt_wifi_setting">WIFI SETTINGS</string>
+    <string name="txt_blocked_all_except_allowed_apps">Block All Except Allowed Apps Above</string>
+    <string name="txt_internet">Internet</string>
+    <string name="txt_messaging">Messaging</string>
+    <string name="txt_facebook">Facebook</string>
+    <string name="txt_snapchat">SnapChat</string>
+    <string name="txt_advance_feature">Advance Feature</string>
+    <string name="txt_upgrade_now">Upgrade Now</string>
+    <string name="txt_upgrade_dialog_title">To use this feature, please upgrade to the Pro Plan for $99.99/month.</string>
+    <string name="txt_feature_include">Features Include:</string>
+    <string name="txt_feature_text">Up to 25 employees, disable apps, turn off WIFI, advance reports, &amp; more. Add additional employees for $5/each.</string>
+    <string name="txt_select_apps">Select Apps</string>
+    <string name="txt_add_selected_apps">Add selected apps</string>
+    <string name="txt_instagram">Instagram</string>
+    <string name="txt_social">Social</string>
+    <string name="txt_popular">Popular</string>
+    <string name="txt_games">Games</string>
+    <string name="txt_work">Work</string>
+    <string name="txt_all_apps">All</string>
+    <string name="txt_add_new_break">Add New Break</string>
+    <string name="txt_duration">Duration</string>
+    <string name="txt_save_new_break">Save new Break</string>
+    <string name="txt_delete_break">Delete Break</string>
+    <string name="txt_edit_break">Edit Break</string>
+    <string name="txt_away_setting">AWAY SETTINGS</string>
+    <string name="txt_add_new_location">Add Location</string>
+    <string name="txt_excuses_overages">Excuse overage</string>
+    <string name="txt_allowed_website">Allowed Website</string>
+    <string name="txt_unauthorized_website">UnAuthorized</string>
+    <string name="txt_excuse_time">Excuse Time</string>
+    <string name="txt_all_employees">All Employees</string>
+    <string name="txt_invited">Invited</string>
+    <string name="menu_all_employees">Employees</string>
+    <string name="txt_tour_title1">Track employee phone usage while at work</string>
+    <string name="txt_tour_description1">Real-time analytics show you which employees are spending too much time on their phones.</string>
+
+    <string name="txt_tour_title2">View reports on your companies phone usage</string>
+    <string name="txt_tour_description2">Detailed reporting allows you to make actionable decisions based on unlocks, overages, and more.</string>
+
+    <string name="txt_tour_title3">Advanced features give you more control</string>
+    <string name="txt_tour_description3">Remotely lock phones, block or allow apps, restric WiFi conectivity, and more.</string>
+    <string name="txt_invitecode_name">INVITE CODE</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_quick_help">Quick Help</string>
+    <string name="txt_support_line">Support Line</string>
+    <string name="txt_frequently_ask_questions">Frequently Asked Questions</string>
+    <string name="txt_send_a_message">Send a Message</string>
+    <string name="txt_choose_a_subject">choose a subject</string>
+    <string name="txt_messeage_label">Message</string>
+    <string name="txt_send_message">Send message</string>
+    <string name="txt_away_mode_is_on">Away Mode is on</string>
+    <string name="txt_logout">Log out</string>
+    <string name="menu_setting">SETTINGS</string>
+    <string name="txt_add_new_employee">Business</string>
+    <string name="txt_business_setting">Business Setting</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_address">Address</string>
+    <string name="txt_city">City</string>
+    <string name="txt_state">State</string>
+    <string name="txt_zipcode">Zip Code</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_privacy_policy">Privacy Policy</string>
+    <string name="txt_dummy_title">What is Lorem Ipsum?</string>
+    <string name="txt_dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_term_of_reference">Term of Reference</string>
+    <string name="txt_billing_details">Billing Details</string>
+    <string name="txt_billing_statement">Billing Statement</string>
+    <string name="txt_billing_information">Billing Infomation</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_faqs">FAQS</string>
+    <string name="txt_add_employee">Add Employee</string>
+    <string name="txt_companies">Companies</string>
+    <string name="txt_add_employee_description">
+        Enter the phone number for the new employee and they will be sent a text message with instruction on how to download the app along with an invite code needed to register with your business on Away.
+    </string>
+    <string name="txt_msg_rates">Standard text message rates may apply.</string>
+    <string name="txt_insert_first_name">Insert First name</string>
+    <string name="txt_insert_last_name">Insert Last name</string>
+    <string name="txt_insert_email">Insert Email</string>
+    <string name="txt_insert_password">Insert password</string>
+    <string name="txt_insert_invite_code">Insert invite code</string>
+    <string name="txt_error_signingin">Error in Signing-in\nplease try again</string>
+    <string name="txt_error_stats_logs">Error in fetching stats</string>
+    <string name="txt_error_fetching_data">Error in fetching data\nplease try again</string>
+    <string name="txt_error_registeration">Error in Registeration\nplease try again</string>
+    <string name="txt_error_in_updating_status">Error in Updating Status\nplease try again</string>
+    <string name="txt_try_again">Try again</string>
+    <string name="txt_failed_try_again">You are failed.Try again</string>
+    <string name="txt_please_wait">Please wait...</string>
+    <string name="txt_copy_code">Copy Code</string>
+
+
+    <string-array name="help_subjects">
+        <item>Technical Support</item>
+        <item>Technical Support</item>
+        <item>Technical Support</item>
+    </string-array>
+
+
+    <dimen name="txt_size_edit_text">@dimen/_13sdp</dimen>
+    <dimen name="height_edit_text">@dimen/_35sdp</dimen>
+    <dimen name="height_help_layout_row">@dimen/_60sdp</dimen>
+    <string name="title_activity_create_join_company">CreateJoinCompany</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MenuActivityEmployee">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.AWMApplication.AppBarOverlay">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:theme="@style/MyThemeOverlay_Toolbar"
+            app:popupTheme="@style/Theme.AWMApplication.PopupOverlay">
+
+            <RelativeLayout
+                android:id="@+id/toolbarIconLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="?attr/actionBarSize"
+                android:gravity="center"
+                android:visibility="visible">
+
+
+                <ImageView
+                    android:id="@+id/toolbarIcon"
+                    android:layout_width="@dimen/_107sdp"
+                    android:layout_height="@dimen/_40sdp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/app_logo_green"
+                    android:visibility="visible" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/toolbarTextBtnLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone">
+
+                <com.plum.networkk.awmapplication.utils.MyTextViewCustomGeneric
+                    android:id="@+id/toolbarTitleTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:textAllCaps="true"
+                    android:gravity="center"
+                    app:fontType="normal"
+                    android:paddingRight="?attr/actionBarSize"
+                    android:textColor="@color/app_green_color"
+                    android:textSize="@dimen/_16sdp"
+                    android:visibility="visible"
+                    tools:text="@string/menu_profile" />
+
+                <com.plum.networkk.awmapplication.utils.MyTextViewCustomGeneric
+                    android:id="@+id/toolbarEditBtnTv"
+                    android:layout_width="@dimen/_50sdp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:gravity="center|right"
+                    android:textAllCaps="true"
+                    android:paddingRight="@dimen/_10sdp"
+                    android:textColor="@color/txt_color_gray_normal"
+                    android:textSize="@dimen/_12sdp"
+                    android:visibility="visible"
+                    android:text="@string/txt_edit" />
+
+            </RelativeLayout>
+
+
+        </com.google.android.material.appbar.MaterialToolbar>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_main" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

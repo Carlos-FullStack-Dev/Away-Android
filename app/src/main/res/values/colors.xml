@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FD0000</color>
+    <color name="dark_red">#cb3030</color>
+    <color name="orange">#EC6339</color>
+    <color name="yellow">#FFC107</color>
+    <color name="color_statusbar_white">#F1F1F1</color>
+    <color name="app_green_color">#84d033</color>
+    <color name="app_progressbar_color">#979795</color>
+    <color name="app_gray_color">#888888</color>
+    <color name="app_darkergray_color">#2C2C2C</color>
+    <color name="gray_light_color">#6DB8B8B8</color>
+    <color name="transparent_color">#00FFFFFF</color>
+    <color name="employee_dashboard_bg_color">#EDEAEA</color>
+
+    <color name="status_color_for_view1">#cb3030</color>
+    <color name="status_color_for_view2">#84d033</color>
+    <color name="status_color_for_view3">#FFC107</color>
+    <color name="status_color_for_view4">#656565</color>
+    <color name="redish_gray">#eaeaea</color>
+    <color name="txt_color_black_heading">#333333</color>
+    <color name="txt_color_gray_normal">#999999</color>
+    <color name="color_overlay">#607F8675</color>
+    <color name="color_dropdown_list_bg_black">#333333</color>
+
+
+    <color name="char_bar_color_red">#cb3030</color>
+    <color name="char_bar_color_green">#84d033</color>
+    <color name="char_bar_color_green2">#438000</color>
+    <color name="char_bar_color_yellow">#FFC107</color>
+    <color name="toolbar_color_control_normal">#090909</color>
+
+    <color name="progress_backcolor">#00000000</color>
+
+
+</resources>

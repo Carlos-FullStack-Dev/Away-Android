@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+<!--    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        &lt;!&ndash; Customize color of navigation drawer icon and back arrow &ndash;&gt;-->
+<!--        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>-->
+<!--    </style>-->
+</resources>

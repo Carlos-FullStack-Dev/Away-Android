@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15677083333333333" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15677083333333333" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15677083333333333" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15677083333333333" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/overlay_bg_shape.xml" value="0.14947916666666666" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/progress_bar_shape.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/progress_thumb.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/rounded_green_shape.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_away_mode_on_off.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_btn_create_account.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_nav_drawer_text_color.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_on_off_switch.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_power_on_off.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_recyclerview_row.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_tab_indicator_apps_list.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_tab_text_color.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_tab_text_color_apps_list.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_take_break_switch.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_text_create_account.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_text_employee_dashboard.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_tick_switch.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/selector_timer_on_off.xml" value="0.15625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/shape_swith_take_break_normal.xml" value="0.14947916666666666" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/drawable/shape_swith_take_break_selected.xml" value="0.14947916666666666" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_add_employee.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_billing_details.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_company_employee.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_create_account.xml" value="0.18645833333333334" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_create_account2.xml" value="0.13385416666666666" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_create_join_company.xml" value="0.13385416666666666" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_employee_app_setting.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_employee_detail.xml" value="0.234375" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_faq.xml" value="0.1046875" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_menu_employee.xml" value="0.11875" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_menu_employer.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_signin.xml" value="0.140625" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/activity_statistics.xml" value="0.1234375" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/app_bar_main_employer.xml" value="0.12708333333333333" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/app_setting_advance_dialog.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/content_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/content_main_employer.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/custom_nav_bar.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/employee_dashboard_advertisement_dialog.xml" value="0.1984375" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_dashboard.xml" value="0.26875" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_dashboard_employer.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_employee_help.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_employee_profile.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_employer_employees.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/fragment_employer_setting.xml" value="0.15989583333333332" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/item_list_active_employees.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/item_list_break_type.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/item_list_employee_settings.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/item_list_employer_employee.xml" value="0.15989583333333332" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/menu/activity_main_drawer_employer.xml" value="0.25" />
+        <entry key="..\:/xampp/htdocs/gitProject/Away-Android-main/app/src/main/res/menu/menu_activity_employee.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

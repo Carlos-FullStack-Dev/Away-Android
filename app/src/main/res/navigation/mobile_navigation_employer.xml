@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dashBoard_employer">
+
+    <fragment
+        android:id="@+id/nav_dashBoard_employer"
+        android:name="com.plum.networkk.awmapplication.fragments.DashboardFragmentEmployer"
+        android:label="@string/menu_dashboard"
+        tools:layout="@layout/fragment_dashboard_employer" />
+
+
+    <fragment
+        android:id="@+id/nav_all_employees"
+        android:name="com.plum.networkk.awmapplication.fragments.FragmentEmployer_Employees"
+        android:label="@string/menu_employees"
+        tools:layout="@layout/fragment_employer_employees" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.plum.networkk.awmapplication.fragments.EmployeeProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_employee_profile" />
+
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.plum.networkk.awmapplication.fragments.FragmentEmployer_Setting"
+        android:label="@string/menu_setting"
+        tools:layout="@layout/fragment_employer_setting" />
+
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.plum.networkk.awmapplication.fragments.EmployeeHelpFragment"
+        android:label="@string/menu_help"
+        tools:layout="@layout/fragment_employee_help" />
+
+
+</navigation>

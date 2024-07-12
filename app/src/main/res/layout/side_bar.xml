@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/employeeProfileRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toTopOf="@+id/btnGoOnBreak"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lineLayout"
+        tools:itemCount="4"
+        tools:listitem="@layout/item_list_employee_nav_drawer" />
+
+    <!--    <ScrollView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent">-->
+
+    <!--        <LinearLayout-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:orientation="vertical"-->
+    <!--            android:gravity="center_horizontal"-->
+    <!--            android:background="@color/black"-->
+    <!--            android:animateLayoutChanges="true">-->
+
+    <!--            <ImageButton-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:src="@drawable/ic_power_selected"-->
+    <!--                android:id="@+id/homeImgBtn"-->
+    <!--                android:background="@color/black"-->
+    <!--                android:padding="@dimen/activity_horizontal_margin"/>-->
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="2dp"-->
+    <!--                android:orientation="horizontal"-->
+    <!--                android:id="@+id/homeSelectBar"-->
+    <!--                android:background="@color/app_green_color"/>-->
+
+    <!--            <ImageButton-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:src="@drawable/ic_power_selected"-->
+    <!--                android:id="@+id/calenderImgBtn"-->
+    <!--                android:background="@color/black"-->
+    <!--                android:padding="@dimen/activity_horizontal_margin"/>-->
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="2dp"-->
+    <!--                android:orientation="horizontal"-->
+    <!--                android:id="@+id/eventSelectBar"-->
+    <!--                android:background="@color/app_green_color"/>-->
+
+    <!--            <ImageButton-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:src="@drawable/ic_power_selected"-->
+    <!--                android:id="@+id/controllerImgBtn"-->
+    <!--                android:background="@color/black"-->
+    <!--                android:padding="@dimen/activity_horizontal_margin"/>-->
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="2dp"-->
+    <!--                android:orientation="horizontal"-->
+    <!--                android:id="@+id/controllerSelectBar"-->
+    <!--                android:background="@color/app_green_color"/>-->
+
+    <!--            <ImageButton-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:src="@drawable/ic_power_selected"-->
+    <!--                android:id="@+id/emailImgBtn"-->
+    <!--                android:background="@color/black"-->
+    <!--                android:padding="@dimen/activity_horizontal_margin"/>-->
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="2dp"-->
+    <!--                android:orientation="horizontal"-->
+    <!--                android:id="@+id/contactSelectBar"-->
+    <!--                android:background="@color/app_green_color"/>-->
+
+    <!--            <ImageButton-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:src="@drawable/ic_power_selected"-->
+    <!--                android:id="@+id/devImgBtn"-->
+    <!--                android:background="@color/black"-->
+    <!--                android:padding="@dimen/activity_horizontal_margin"/>-->
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="2dp"-->
+    <!--                android:orientation="horizontal"-->
+    <!--                android:id="@+id/devSelectBar"-->
+    <!--                android:background="@color/app_green_color"/>-->
+    <!--        </LinearLayout>-->
+    <!--    </ScrollView>-->
+</androidx.constraintlayout.widget.ConstraintLayout>
